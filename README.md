@@ -65,6 +65,7 @@ The following visualizations were created in Tableau to support storytelling for
 
 ## 📁 File Structure
 
+```
 Cybersecurity_Threats_2015-2024/
 ├── 01_Project Management/
 │ ├──Data_Immersion_A6_Project_Brief.pdf
@@ -112,6 +113,7 @@ Cybersecurity_Threats_2015-2024/
 ├── 05_Sent to Client/
 │ └── Global Cybersecurity Threats (2015–2024).pdf
 ├── README.md
+```
 
 ---
 
